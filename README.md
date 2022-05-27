@@ -6,6 +6,6 @@
 
  Inspiração: https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate
 
-
+ Como ficou: https://social-links-doti.netlify.app
 
 
